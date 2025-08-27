@@ -48,6 +48,7 @@ python src/main.py
 ## Requirements
 See `requirements.txt` for dependencies.
 
-## Results
+## Results (Images of wrong way vehicles)
 ![Alt Text](WWW-Detected/WDD1.jpg)
 ![Alt Text](WWW-Detected/WDD2.jpg)
+
