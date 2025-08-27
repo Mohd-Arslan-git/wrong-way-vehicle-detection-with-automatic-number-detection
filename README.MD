@@ -47,3 +47,7 @@ python src/main.py
 
 ## Requirements
 See `requirements.txt` for dependencies.
+
+## Results
+![Alt Text](WWW-Detected/WDD1.jpg)
+![Alt Text](WWW-Detected/WDD2.jpg)
