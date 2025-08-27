@@ -50,5 +50,5 @@ See `requirements.txt` for dependencies.
 
 ## Results (Images of wrong way vehicles)
 ![Alt Text](WWV-Detected/WDD1.jpg)
-![Alt Text](WWV-Detected/WDD2.jpg)
+![Alt Text](WWV-Detected/WDD2.png)
 
